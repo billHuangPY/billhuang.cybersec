@@ -1,8 +1,5 @@
----
-title: CYBERSEC2020(I) - Insider Threat
-date: 2020-08-19 09:42:02
-tags: #CYBERSEC2020
----
+# title: CYBERSEC2020(I) - Insider Threat
+
 
 informed by Po-Yu Chen, FineArt Tech.
 
@@ -137,7 +134,7 @@ What is the confidenial information of the semiconductor package?
 ## MACOS
 -   Compress the target file
 ![compress](/assets/compress.png)
--   get a original picture
+-   get an original picture
 ![flower](/assets/flower.jpeg)
 ```sh
 $cat flower.jpeg confidential.zip > payload.jpg
