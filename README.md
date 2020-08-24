@@ -9,7 +9,7 @@ I joined six forums in total on Aug. 12. The catogories of them are quite in var
 
 I briefly recorded the forum and implement the lab if it is possible.
 
-# TOPIC ARE LISTED BELOW
+# TOPICS ARE LISTED BELOW
 -   I   - Insider Threat Stealing - Stegnography, Device Hacking, Obfuscate, Monitor Bypassing (FINISHED)
 -   II  - Side-Channel Attack Analysis
 -   III - Operation ENDTRADE - TICK (FINISHED)
