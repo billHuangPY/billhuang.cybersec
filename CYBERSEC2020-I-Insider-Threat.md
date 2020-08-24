@@ -1,4 +1,4 @@
-# title: CYBERSEC2020(I) - Insider Threat
+# CYBERSEC2020(I) - Insider Threat
 
 
 informed by Po-Yu Chen, FineArt Tech.

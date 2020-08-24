@@ -1,8 +1,5 @@
----
-title: CYBERSEC2020(III) - Operation ENDTRADE
-date: 2020-08-19 09:43:15
-tags: #CYBERSEC2020
----
+# CYBERSEC2020(III) - Operation ENDTRADE
+
 informed by Joey Chen, Trend Micro
 
 # What is Operation ENDTRADE
@@ -94,7 +91,7 @@ informed by Joey Chen, Trend Micro
 -   hidefloder
 -   pretender
 
-## Droppeer Variant Collection
+## Dropper Variant Collection
 -   Import all the modules and features into their final downloaders
 -   More stable, more powerful
 -   All of them will connect legitimate website and verify the victim volume to decide download backdoor or not
@@ -198,3 +195,4 @@ informed by Joey Chen, Trend Micro
 # Related Article
 -   https://www.scmagazine.com/home/security-news/tick-cybergang-uses-custom-malware-to-target-japanese-websites/
 -   https://blog.trendmicro.com/trendlabs-security-intelligence/redbaldknight-bronze-butler-daserf-backdoor-now-using-steganography/
+-   http://securityaffairs.co/wordpress/64311/apt/bronze-butler-ttps.html
