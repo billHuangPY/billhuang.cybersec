@@ -115,7 +115,7 @@ Informed by Dove Chiu and Tim Yeh, Trend Micro
 ![reverse engineer](/assets/whatisthis.png)
 
 # Real IR case
-![realIR](/assets/realIRcase)
+![realIR](/assets/realIRcase.png)
 
 # Conclusion
 -   secret Webshell techniques are used by APT group
